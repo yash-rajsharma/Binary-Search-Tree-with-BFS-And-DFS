@@ -1,3 +1,5 @@
+<img src='https://miro.medium.com/v2/resize:fit:1200/1*VM84VPcCQe0gSy44l9S5yA.jpeg' alt = "BFS And DFS" width='100%'/>
+
 # 🌳 Binary Search Tree (BST) with Traversal Algorithms 🌳
 
 This repository contains an implementation of a Binary Search Tree (BST) with basic operations like `insert`, `lookup`, and `remove`, along with traversal algorithms: **Breadth-First Search (BFS)** and **Depth-First Search (DFS)**. The DFS traversals include **In-Order**, **Pre-Order**, and **Post-Order** methods.
